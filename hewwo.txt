@@ -1,3 +1,7 @@
 mistew obwama?
+<<<<<<< HEAD
 
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAa
+=======
+dt
+>>>>>>> dc2381f6917af9eeb280a8f9806bc66010774e17
